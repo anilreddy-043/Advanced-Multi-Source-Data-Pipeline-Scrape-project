@@ -8,6 +8,9 @@ The project demonstrates how web scraping techniques and data processing workflo
 
 It focuses on automating data collection, improving data quality, and creating an efficient pipeline for handling data from different sources.
 
+<img width="1346" height="892" alt="image" src="https://github.com/user-attachments/assets/4a30b096-1745-4431-8a46-22985ab0e141" />
+
+
 🎯 Project Objectives
 
 Automate data extraction from multiple web sources.
